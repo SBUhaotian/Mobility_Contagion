@@ -18,6 +18,6 @@ To plot the results you can use the same run_mobility_simulator.py file with `py
 
 ## Graph simulation
 
-Build the bipartite graphs using the notebook `preprocess\build_bipartite_graph`. Change the city name as required. Run the `user-venue-user_graph_simulator.py` for this purpose. Change the name of the city to pick the relevant checkin file.
+Build the bipartite graphs using the notebook `preprocess/build_bipartite_graph`. Change the city name as required. Run the `user-venue-user_graph_simulator.py` for this purpose. Change the name of the city to pick the relevant checkin file.
 
 Dataset characteristics are plotted from the `more_plots.py` file.
